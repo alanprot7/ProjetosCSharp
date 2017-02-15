@@ -1,0 +1,21 @@
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\ComparaPagosCon\bin\Debug\ComparaPagosCon.exe
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\ComparaPagosCon\bin\Debug\ComparaPagosCon.pdb
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.exe
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.pdb
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\ComparaPagosCon\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.exe
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\ComparaPagosCon\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.pdb
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.exe
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.pdb
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\bin\Debug\ComparaPagosCon.exe
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\bin\Debug\ComparaPagosCon.pdb
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\bin\Debug\ComparaPagosCon.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon\ComparaPagosCon\bin\Debug\ComparaPagosCon.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon2\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon2\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon2\ComparaPagosCon\obj\x86\Debug\ComparaPagosCon.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon2\ComparaPagosCon\bin\Debug\ComparaPagosCon.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ComparaPagosCon2\ComparaPagosCon\bin\Debug\ComparaPagosCon.pdb

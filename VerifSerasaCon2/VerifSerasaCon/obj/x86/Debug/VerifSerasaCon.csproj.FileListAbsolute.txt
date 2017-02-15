@@ -1,0 +1,17 @@
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\bin\Debug\VerifSerasaCon.exe
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\bin\Debug\VerifSerasaCon.pdb
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.exe
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.pdb
+C:\Users\AlanProt7\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\bin\Debug\VerifSerasaCon.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\bin\Debug\VerifSerasaCon.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon2\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon2\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon2\VerifSerasaCon\bin\Debug\VerifSerasaCon.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon2\VerifSerasaCon\bin\Debug\VerifSerasaCon.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\VerifSerasaCon2\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Dropbox\Cartório\VerifSerasaCon2\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.exe
+C:\Users\Alan\Documents\Dropbox\Cartório\VerifSerasaCon2\VerifSerasaCon\obj\x86\Debug\VerifSerasaCon.pdb

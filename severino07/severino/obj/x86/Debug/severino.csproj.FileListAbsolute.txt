@@ -1,0 +1,62 @@
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\bin\Debug\severino.exe
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\bin\Debug\severino.pdb
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\obj\x86\Debug\severino.Form1.resources
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\obj\x86\Debug\severino.Properties.Resources.resources
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\obj\x86\Debug\severino.exe
+C:\Users\Alan\documents\visual studio 2010\Projects\severino\severino\obj\x86\Debug\severino.pdb
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\obj\x86\Debug\severino.exe
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\obj\x86\Debug\severino.pdb
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\bin\Debug\severino.exe
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\bin\Debug\severino.pdb
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\obj\x86\Debug\severino.Form1.resources
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\obj\x86\Debug\severino.Properties.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino2\severino\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\obj\x86\Debug\severino.exe
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\obj\x86\Debug\severino.pdb
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\bin\Debug\severino.exe
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\bin\Debug\severino.pdb
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\obj\x86\Debug\severino.Form1.resources
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\obj\x86\Debug\severino.Properties.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Documents\Visual Studio 2010\Projects\severino3\severino\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino3\severino\obj\x86\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino3\severino\obj\x86\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino3\severino\bin\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino3\severino\bin\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino3\severino\obj\x86\Debug\severino.Form1.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino3\severino\obj\x86\Debug\severino.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino3\severino\obj\x86\Debug\severino.csproj.GenerateResource.Cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino4\severino\obj\x86\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino4\severino\obj\x86\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino4\severino\bin\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino4\severino\bin\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino4\severino\obj\x86\Debug\severino.Form1.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino4\severino\obj\x86\Debug\severino.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino4\severino\obj\x86\Debug\severino.csproj.GenerateResource.Cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino4\severino\obj\x86\Debug\severino.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino05\severino\obj\x86\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino05\severino\obj\x86\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino06\severino\obj\x86\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino06\severino\obj\x86\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino06\severino\bin\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino06\severino\bin\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino06\severino\obj\x86\Debug\severino.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino06\severino\obj\x86\Debug\severino.Form1.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino06\severino\obj\x86\Debug\severino.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino06\severino\obj\x86\Debug\severino.csproj.GenerateResource.Cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino07\severino\obj\x86\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino07\severino\obj\x86\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino07\severino\bin\Debug\severino.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino07\severino\bin\Debug\severino.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino07\severino\obj\x86\Debug\severino.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino07\severino\obj\x86\Debug\severino.Form1.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino07\severino\obj\x86\Debug\severino.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\severino07\severino\obj\x86\Debug\severino.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Dropbox\Cartório\severino07\severino\obj\x86\Debug\severino.exe
+C:\Users\Alan\Documents\Dropbox\Cartório\severino07\severino\obj\x86\Debug\severino.pdb

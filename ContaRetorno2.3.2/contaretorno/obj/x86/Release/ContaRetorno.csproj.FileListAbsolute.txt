@@ -1,0 +1,4 @@
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ContaRetorno2.2.3\ContaRetorno\obj\x86\Release\ContaRetorno.csproj.ResolveComReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ContaRetorno2.2.3\ContaRetorno\obj\x86\Release\ContaRetorno.Form1.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ContaRetorno2.2.3\ContaRetorno\obj\x86\Release\ContaRetorno.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\ContaRetorno2.2.3\ContaRetorno\obj\x86\Release\ContaRetorno.csproj.GenerateResource.Cache

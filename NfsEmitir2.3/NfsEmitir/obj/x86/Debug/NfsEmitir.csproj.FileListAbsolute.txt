@@ -1,0 +1,83 @@
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\NfsEmitir\obj\x86\Debug\NfsEmitir.Form1.resources
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Users\AlanProt7\AppData\Local\Temporary Projects\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Form1.resources
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Users\AlanProt7\documents\visual studio 2010\Projects\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Form1.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Form1.resources
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Documents\Dropbox\Cartório\NfsEmitir\NfsEmitir\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Form1.resources
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache
+C:\Dropbox\Fametro\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Dropbox\Fametro\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Dropbox\Fametro\2016.2\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Dropbox\Fametro\2016.2\NfsEmitir\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Dropbox\Fametro\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.csprojResolveAssemblyReference.cache
+C:\Dropbox\Fametro\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Form1.resources
+C:\Dropbox\Fametro\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Dropbox\Fametro\2016.2\NfsEmitir\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache
+C:\Dropbox\Fametro\2016.2\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Dropbox\Fametro\2016.2\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Dropbox\Fametro\2016.2\NfsEmitir2\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Dropbox\Fametro\2016.2\NfsEmitir2\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Dropbox\Fametro\2016.2\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.csprojResolveAssemblyReference.cache
+C:\Dropbox\Fametro\2016.2\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.Form1.resources
+C:\Dropbox\Fametro\2016.2\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Dropbox\Fametro\2016.2\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Users\Alan\Dropbox\2016.2\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.1\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.1\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.1\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.1\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.1\NfsEmitir\obj\x86\Debug\NfsEmitir.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.1\NfsEmitir\obj\x86\Debug\NfsEmitir.TelaPrincipal.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.1\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.1\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.2\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.2\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.2\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.2\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.2\NfsEmitir\obj\x86\Debug\NfsEmitir.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.2\NfsEmitir\obj\x86\Debug\NfsEmitir.TelaPrincipal.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.2\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.2\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.3\NfsEmitir\obj\x86\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.3\NfsEmitir\obj\x86\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.3\NfsEmitir\bin\Debug\NfsEmitir.exe
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.3\NfsEmitir\bin\Debug\NfsEmitir.pdb
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.3\NfsEmitir\obj\x86\Debug\NfsEmitir.csprojResolveAssemblyReference.cache
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.3\NfsEmitir\obj\x86\Debug\NfsEmitir.TelaPrincipal.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.3\NfsEmitir\obj\x86\Debug\NfsEmitir.Properties.Resources.resources
+C:\Dropbox\Arquivos\Projetos -C#-\Cartório\NfsEmitir2.3\NfsEmitir\obj\x86\Debug\NfsEmitir.csproj.GenerateResource.Cache

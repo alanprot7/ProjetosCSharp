@@ -1,0 +1,95 @@
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\bin\Debug\Apsoo.exe
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\bin\Debug\Apsoo.pdb
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\obj\x86\Debug\Apsoo.Form1.resources
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Manoel\AppData\Local\Temporary Projects\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Manoel\documents\visual studio 2010\Projects\Apsoo\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Manoel\documents\visual studio 2010\Projects\Apsoo\Apsoo\obj\x86\Debug\Apsoo.pdb
+E:\Apsoo\Apsoo\obj\x86\Debug\Apsoo.exe
+E:\Apsoo\Apsoo\obj\x86\Debug\Apsoo.pdb
+E:\Apsoo\Apsoo\bin\Debug\Apsoo.exe
+E:\Apsoo\Apsoo\bin\Debug\Apsoo.pdb
+E:\Apsoo\Apsoo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Apsoo\Apsoo\obj\x86\Debug\Apsoo.Form1.resources
+E:\Apsoo\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+E:\Apsoo\Apsoo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Apsoo\Apsoo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Cópia de Apsoo\Apsoo\obj\x86\Debug\Apsoo.exe
+E:\Cópia de Apsoo\Apsoo\obj\x86\Debug\Apsoo.pdb
+E:\Cópia de Apsoo\Apsoo\bin\Debug\Apsoo.exe
+E:\Cópia de Apsoo\Apsoo\bin\Debug\Apsoo.pdb
+E:\Cópia de Apsoo\Apsoo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Cópia de Apsoo\Apsoo\obj\x86\Debug\Apsoo.Form1.resources
+E:\Cópia de Apsoo\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+E:\Cópia de Apsoo\Apsoo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Cópia de Apsoo\Apsoo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\bin\Debug\Apsoo.exe
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\bin\Debug\Apsoo.pdb
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\obj\x86\Debug\Apsoo.Form1.resources
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\obj\x86\Debug\Apsoo.csproj.GenerateResource.Cache
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\obj\x86\Debug\Apsoo.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.1\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\bin\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\bin\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\Apsoo.Form1.resources
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.2\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\bin\Debug\Apsoo.exe
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\bin\Debug\Apsoo.pdb
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.csproj.GenerateResource.Cache
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.csprojResolveAssemblyReference.cache
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.csproj.GenerateResource.Cache
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.TelaPrincipal.resources
+C:\Users\Alan\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.TelaPrincipal.resources
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\bin\Debug\Apsoo.exe
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\bin\Debug\Apsoo.pdb
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\bin\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\bin\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.TelaPrincipal.resources
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.3\Apsoo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\bin\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\bin\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\obj\x86\Debug\Apsoo.TelaPrincipal.resources
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4\Apsoo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\Apsoo.pdb
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\Apsoo.TelaPrincipal.resources
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\Apsoo.Properties.Resources.resources
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\bin\Debug\Apsoo.exe
+C:\Users\Alan\Documents\Dropbox\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\bin\Debug\Apsoo.pdb
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\Apsoo.exe
+C:\Dropbox\Fametro\2016.2\APSOO\Projeto Versoes\Apsoo2.4.1\Apsoo\obj\x86\Debug\Apsoo.pdb
